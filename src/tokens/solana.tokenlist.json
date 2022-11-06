@@ -32093,6 +32093,24 @@
     },
     {
       "chainId": 101,
+      "address": "5N64GrZY8NT8ux3PiFnkiPnESK7QH8B79xdMGqQ42Sff",
+      "symbol": "ADMC",
+      "name": "Amandiers Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5N64GrZY8NT8ux3PiFnkiPnESK7QH8B79xdMGqQ42Sff/icon.png",
+      "tags": [
+        "currency",
+        "social-token",
+        "community-token",
+        "trading-token",
+        "reward-token",
+        "utility-token",
+        "learning-token",
+        "school-token"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "DRE26YQhpsifRS2pQptiVMpidVVvVNL8kbSbaXQyHmqi",
       "symbol": "TOAPP",
       "name": "Appreciation",
